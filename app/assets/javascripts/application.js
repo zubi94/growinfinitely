@@ -14,3 +14,9 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+let part1 = "hey there! we think it's really cool that you are using developer tools to inspect this page."
+let part2 = "do you have a github? consider sending us a job application!"
+
+console.log(part1 + part2);
+
